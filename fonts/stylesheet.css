@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'Amble';
+    src: url('../fonts/Ammble-Regular.eot');
+    src: url(../fonts/'Amble-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Amble-Regular.woff2') format('woff2'),
+        url('../fonts/Amble-Regular.woff') format('woff'),
+        url('../fonts/Amble-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Big John';
+    src: url('../fonts/BigJohn.eot');
+    src: url('../fonts/BigJohn.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BigJohn.woff2') format('woff2'),
+        url('../fonts/BigJohn.woff') format('woff'),
+        url('../fonts/BigJohn.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Roboto';
+    src: url(../fonts/'Roboto-Regular.eot');
+    src: url('../fonts/Roboto-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Roboto-Regular.woff2') format('woff2')
+        url('../fonts/Roboto-Regular.woff') format('woff'),
+        url('../fonts/Roboto-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
